@@ -1,0 +1,33 @@
+
+body {
+   margin: auto;
+   background-color: green;
+   color: white 
+}
+
+h1 {
+    color: goldenrod;
+}
+
+
+#container{
+    margin: auto;
+    text-align: center;
+    width: 50%;
+}
+
+button{
+    background-color: goldenrod;
+    color: #016f32;
+    border-radius: 0px;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    width: 150px;
+    text-align: center;
+    display: block;
+    margin: 10px auto;
+    display: flex;
+    
+    
+}
