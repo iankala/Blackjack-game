@@ -1,5 +1,8 @@
-function rollDice(){
-    let randomNumber = Math.floor(Math.random()*6) + 1
-    return randomNumber
+let airbnb = {
+    location : "Paris",
+    price : 150,
+    isAvailable: true,
+    amenities: ["WiFi", "Kitchen", "Heating"],
 }
-console.log(rollDice())
+
+console.log(airbnb.amenities)
